@@ -7,7 +7,8 @@ $(document).ready(function() {
 
     $('div.grid-layout').hide();
 	$('div.grid-layout').delay(2000).fadeIn(1000);
-
+    $('div.second-row').hide();
+	$('div.second-row').delay(2000).fadeIn(1000);
 });
 
 
