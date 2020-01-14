@@ -11,6 +11,7 @@ permalink: /events
 <br><br>
 
 <strong>February 21 12-2 pm</strong> at the Louise McCagg Gallery: gallery reception and Artists Talk moderated by Dominique Anglade
+<a href="https://www.eventbrite.com/e/on-the-cosmic-stage-of-the-universe-edwidge-danticat-talks-rene-depestre-tickets-89339214997?aff=ebdssbdestsearch" target="_blank"> RSVP </a>
 
 <br><br>
 
