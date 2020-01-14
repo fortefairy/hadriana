@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /scholars
-
 ---
+
 <div class="row"><h1> meet the scholars</h1></div>
 <br>
 <div class="row"><div id="column-a">
