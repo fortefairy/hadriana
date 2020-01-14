@@ -12,22 +12,22 @@
 </div>
 <div class="row">
   <div class="column">
-    <img src="/hadriana/img/map1.jpeg" alt="Vue de la part et d’autre de Jacmel, 1760" onclick="myFunction(this);" />
+    <img src="/img/map1.jpeg" alt="Vue de la part et d’autre de Jacmel, 1760" onclick="myFunction(this);" />
  <p> <a href="https://gallica.bnf.fr/ark:/12148/btv1b531035760"> "Vue de la part et d’autre de Jacmel," 1760.</a></p>
 
 </div>
   <div class="column">
-    <img src="/hadriana/img/map2.jpeg" alt="Plan de la baye et du bourg de Jacmel dans l'isle St. Domingue, 1786" onclick="myFunction(this);" /> <a href="https://gallica.bnf.fr/ark:/12148/btv1b531035832"> Plan de la baye et du bourg de Jacmel dans l'isle St. Domingue, 1786</a>
+    <img src="/img/map2.jpeg" alt="Plan de la baye et du bourg de Jacmel dans l'isle St. Domingue, 1786" onclick="myFunction(this);" /> <a href="https://gallica.bnf.fr/ark:/12148/btv1b531035832"> Plan de la baye et du bourg de Jacmel dans l'isle St. Domingue, 1786</a>
   </div>
   <div class="column">
-    <img src="/hadriana/img/map3.jpeg" alt="Plan de la ville de Jacmel et environs, 1800" onclick="myFunction(this);" /><a href="https://gallica.bnf.fr/ark:/12148/btv1b8492190x">Plan de la ville de Jacmel et environs, 1800</a>
+    <img src="/img/map3.jpeg" alt="Plan de la ville de Jacmel et environs, 1800" onclick="myFunction(this);" /><a href="https://gallica.bnf.fr/ark:/12148/btv1b8492190x">Plan de la ville de Jacmel et environs, 1800</a>
   </div>
   <div class="column">
-    <img src="/hadriana/img/map4.jpeg" alt="Plan de la ville de Jacmel et environs, 1804
+    <img src="/img/map4.jpeg" alt="Plan de la ville de Jacmel et environs, 1804
 " onclick="myFunction(this);" /> <a href="https://gallica.bnf.fr/ark:/12148/btv1b53027884c">Plan de la ville de Jacmel et environs, 1804 </a>
   </div>
 <div class="column">
-    <img src="/hadriana/img/map5.jpeg" alt="Plan de la ville de Jacmel, 1892" onclick="myFunction(this);" /> <a href="https://gallica.bnf.fr/ark:/12148/btv1b52503688j">Plan de la ville de Jacmel, 1892</a>
+    <img src="/img/map5.jpeg" alt="Plan de la ville de Jacmel, 1892" onclick="myFunction(this);" /> <a href="https://gallica.bnf.fr/ark:/12148/btv1b52503688j">Plan de la ville de Jacmel, 1892</a>
   </div>
 </div>
 <script>

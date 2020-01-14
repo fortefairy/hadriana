@@ -26,11 +26,11 @@
 
 <p>Default theme will look like this</p>
 
-<p><img src="/hadriana/img/bheema-jekyll-theme.png" alt="webjeda bheema jekyll theme" /></p>
+<p><img src="/img/bheema-jekyll-theme.png" alt="webjeda bheema jekyll theme" /></p>
 
 <p>This theme is responsive.</p>
 
-<p><img src="/hadriana/img/bheema-jekyll-responsive-theme-screenshot.png" alt="webjeda bheema responsive jekyll theme" /></p>
+<p><img src="/img/bheema-jekyll-responsive-theme-screenshot.png" alt="webjeda bheema responsive jekyll theme" /></p>
 
 <h1 id="development">Development</h1>
 <p>Make changes to the <strong>master</strong> branch and create a pull request. Do not use <strong>gh-pages</strong> branch as it is used to host the theme.</p>
