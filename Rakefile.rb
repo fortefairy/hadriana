@@ -12,7 +12,7 @@ task :prod do
   puts 'Now let\'s publish it, hold on a sec...'
 # personal server setup
   user = 'inallmyd'
-  server = 'inallmydreams.net'
+  server = 'thenational.reclaimhosting.com'
   path = '/home/inallmyd/public_html' 
   sh "rsync -a -r -e \"ssh -p22\" _site/. #{user}@#{server}:#{path}"
   puts "\n"
