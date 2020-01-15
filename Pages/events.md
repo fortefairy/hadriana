@@ -10,7 +10,7 @@ permalink: /events
 
 <br><br>
 
-<strong>February 21, 12-2 pm</strong> at the Louise McCagg Gallery: gallery reception and Artists Talk moderated by Dominique Jean-Louis
+<strong>February 21, 7-9 pm</strong> at the Louise McCagg Gallery: gallery reception and Artists Talk moderated by Dominique Jean-Louis
 <br> <a href="https://www.eventbrite.com/e/in-all-my-dreams-a-visual-installation-tickets-88776931191?aff=ebdssbeac" target="_blank">RVSP </a>
 
 <br><br>
