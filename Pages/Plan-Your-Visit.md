@@ -7,7 +7,7 @@ permalink: /plan-your-visit
 
 "In All My Dreams |  a visual installation" opens on February 19, 2020 and closes on March 14, 2020. The exhibit is hosted in the Louise McCagg Gallery, located on the fourth floor of the Diana Center at Barnard College, Columbia University (3009 Broadway, New York, NY 10027). <br> <br>
 Gallery hours are Monday-Friday 9AM-5PM as well as evenings and weekends by appointment.<br> <br>
-For additional information: hadrianabookclub@gmail.com.<br> <br>
+For additional information: info@inallmydreams.net.<br> <br>
 
  <img src="/img/campusmap.png" alt="Campus Map"/>
 </p>
