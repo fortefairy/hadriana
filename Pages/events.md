@@ -14,6 +14,6 @@ permalink: /events
 <br> <a href="https://www.eventbrite.com/e/in-all-my-dreams-a-visual-installation-tickets-88776931191?aff=ebdssbeac" target="_blank">RVSP </a>
 
 <br><br>
-
+For more information 
 </p>
 </div>
