@@ -10,9 +10,9 @@ permalink: {{site.baseurl}}/events
 
 <br><br>
 
-<strong>February 21 7-9 pm</strong> at the Louise McCagg Gallery: Artists Talk moderated by Dominique Jean-Louis. 
+<strong>February 21, 7-9 pm</strong> at the Louise McCagg Gallery: Artists Talk moderated by Dominique Jean-Louis. 
 
 <br><br>
 
-Please sign up or check back here for additional events.
+Please <a href="https://www.eventbrite.com/e/in-all-my-dreams-a-visual-installation-tickets-88776931191" target="_blank"> sign up | register </a> or check back here for additional events.
 </div></p>
